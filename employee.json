@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Jui",
+    "DOB": "1990-05-15",
+    "Height": 175,
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Name": "Janvi",
+    "DOB": "1985-08-22",
+    "Height": 162,
+    "City": "Pune",
+    "State": "Pune"
+  },
+  {
+    "Name": "Manoj",
+    "DOB": "1993-02-10",
+    "Height": 180,
+    "City": "Nashik",
+    "State": "Nashik"
+  },
+  {
+    "Name": "Prajakta",
+    "DOB": "1988-11-30",
+    "Height": 168,
+    "City": "Jalgaon",
+    "State": "Jalgaon"
+  },
+  {
+    "Name": "Dakshita",
+    "DOB": "1992-07-18",
+    "Height": 185,
+    "City": "Manglore",
+    "State": "Manglore"
+  }
+]
